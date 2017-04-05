@@ -9,6 +9,7 @@
 
 ### Log
 - 0405: wireframe [Zeplin](https://zpl.io/vjfQP)
+![wireframe IMG](doc/img/About Page_wireframe.png)
 
 ### 成員
 
