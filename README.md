@@ -15,8 +15,7 @@
 
 - ikea不賣家具 Designer @jellynina
 - Dan電池專家 Leader&Programmer @DanTNC
-
-
+- Padi假電機真工設Programmer @PadiCheng
 #### ikea不賣傢俱
 
 * Designer
@@ -33,3 +32,11 @@ ikea就是`宜家`，目前在台南好想工作室擔任『神隱饅頭』(ment
 * [mail](fad11204@yahoo.com.tw)
 
 手機成癮， 隨時注意教室插座分佈， 若手機電量低落會感到特別焦慮。
+####  Padi假電機真工設
+
+* Programmer
+* @PadiCheng
+* 成大工設107
+* [mail](padi850227@gmail.com)
+
+有一支很容易沒電的手機&一台沒有插電會爆的電腦，吃到飽極度沉癮，其實是食肉大胃王，愛唱歌玩樂團。
