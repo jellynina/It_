@@ -14,3 +14,4 @@
 ### 成員
 
 - ikea不賣家具 Designer @jellynina
+- Dan電池專家 leader&Programer @DanTNC
