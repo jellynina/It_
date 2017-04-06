@@ -16,6 +16,7 @@
 - ikea不賣家具 Designer @jellynina
 - Dan電池專家 Leader&Programmer @DanTNC
 - Padi假電機真工設Programmer @PadiCheng
+- Horace不想從人生登出Programmer @horacechangleo
 #### ikea不賣傢俱
 
 * Designer
@@ -40,3 +41,11 @@ ikea就是`宜家`，目前在台南好想工作室擔任『神隱饅頭』(ment
 * [mail](padi850227@gmail.com)
 
 有一支很容易沒電的手機&一台沒有插電會爆的電腦，吃到飽極度沉癮，其實是食肉大胃王，愛唱歌玩樂團。
+####  Horace不想從人生登出
+
+* Programmer
+* @horacechangleo
+* 成大工科108
+* [mail](horacechangleo@gmail.com)
+
+極度嗜睡，基本保持缺眠狀態，若眼神失焦，麻煩請複述，謝謝，應該已自動登出。
