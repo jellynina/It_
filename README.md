@@ -16,8 +16,7 @@
 
 - ikea不賣家具 Designer @jellynina
 - Dan電池專家 leader&Programer @DanTNC
-
-
+- Padi假電機真工設Programmer@PadiCheng
 #### ikea不賣傢俱
 
 * Designer
